@@ -1,1 +1,1 @@
-# amey-ineuron-compute-vision
+# amey-ineuron-computer-vision
